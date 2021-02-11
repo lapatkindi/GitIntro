@@ -1,0 +1,20 @@
+﻿# создадим репозиторий
+git init
+
+# добавим файл
+touch myNewFile.txt
+
+# напишем в файле что-нибудь
+echo "something" >> ./myNewFile.txt
+
+# посмотрим на статус
+git status
+
+# подготовим файл к коммиту (добавим/add)|
+git add ./myNewFile.txt
+
+# посмотрим на статус снова
+git status
+
+# сделаем коммит
+git commit -m 'initial commit with myNewFile.txt'
