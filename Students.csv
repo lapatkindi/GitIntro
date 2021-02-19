@@ -1,17 +1,17 @@
-No;Name;State;Command;
+No;Name;State;Command;Lab1Task;GitRepo;
 1;Ахметова Анна     ;
 2;Аюбов Лом-Али     ;
-3;Бабурин Александр ;   Red
-4;Волкова Валерия   ;   Green
-5;Григорьев Роман   ;   Yellow
-6;Кабельский Ян     ;   Red 
-7;Кирчанов Станислав;   Green
+3;Бабурин Александр ;   Red     ; 1 ;
+4;Волкова Валерия   ;   Green   ; 2 ;
+5;Григорьев Роман   ;   Yellow  ; 4 ; https://github.com/RomanGrigorev387
+6;Кабельский Ян     ;   Red     ; 1 ;
+7;Кирчанов Станислав;   Green   ; 2 ; https://github.com/Stas-afk47
 8;Кузнецов Евгений  ; 
-9;Морозова Дарья    ;   Green
-10;Платонов Андрей  ;   Pink
-11;Фадеев Артем     ;   Red 
-12;Фогель Антон     ;
-13;Ширенина Татьяна ;
-14;Шулаков Александр;   Yellow 
-15;Щеголев Александр;   Yellow
-16;Юшков Максим     ;   Pink
+9;Морозова Дарья    ;   Green   ; 2 ; 
+10;Платонов Андрей  ;   Pink    ; 3 ; https://github.com/karina515
+11;Фадеев Артем     ;   Red     ; 1 ; https://github.com/Susanoo-no-Mikoto
+12;Фогель Антон     ;   Yellow  ; 4 ;
+13;Ширенина Татьяна ;   Pink    ; 3 ;
+14;Шулаков Александр;   Yellow  ; 4 ; https://github.com/Alexander-tec
+15;Щеголев Александр;   Yellow  ; 4 ; https://github.com/Vanalgin
+16;Юшков Максим     ;   Pink    ; 3 ; https://github.com/HEBi744
