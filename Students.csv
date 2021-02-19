@@ -1,12 +1,12 @@
 No;Name;State;Command;Lab1Task;GitRepo;
-1;Ахметова Анна     ;
-2;Аюбов Лом-Али     ;
+1;Ахметова Анна     ;   ;;
+2;Аюбов Лом-Али     ;   ;;
 3;Бабурин Александр ;   Red     ; 1 ;
 4;Волкова Валерия   ;   Green   ; 2 ;
 5;Григорьев Роман   ;   Yellow  ; 4 ; https://github.com/RomanGrigorev387
-6;Кабельский Ян     ;   Red     ; 1 ;
+6;Кабельский Ян     ;   Red     ; 1 ; https://github.com/Yanchik833
 7;Кирчанов Станислав;   Green   ; 2 ; https://github.com/Stas-afk47
-8;Кузнецов Евгений  ; 
+8;Кузнецов Евгений  ;   ;;
 9;Морозова Дарья    ;   Green   ; 2 ; 
 10;Платонов Андрей  ;   Pink    ; 3 ; https://github.com/karina515
 11;Фадеев Артем     ;   Red     ; 1 ; https://github.com/Susanoo-no-Mikoto
